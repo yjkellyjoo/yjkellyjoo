@@ -2,8 +2,6 @@
 
 [![yjkellyjoo's Stats](https://github-readme-stats.vercel.app/api?username=yjkellyjoo&show_icons=true&count_private=true&theme=transparent)](https://github.com/yjkellyjoo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjkellyjoo&layout=compact&theme=transparent)](https://github.com/yjkellyjoo)
-
 [![yjkellyjoo's wakatime week stats](https://github-readme-stats.vercel.app/api/wakatime?username=yjkellyjoo)](https://github.com/yjkellyjoo)
 
 [![Solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjkellyjoo)](https://solved.ac/profile/yjkellyjoo)
