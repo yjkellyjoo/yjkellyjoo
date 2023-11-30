@@ -1,8 +1,8 @@
 ### Hi there 👋, call me Kelly!
 
-[![yjkellyjoo's Stats](https://github-readme-stats.vercel.app/api?username=yjkellyjoo&show_icons=true&count_private=true&theme=transparent)](https://github.com/yjkellyjoo)
+[![yjkellyjoo's Stats](https://github-readme-stats-yjkellyjoo.vercel.app/api?username=yjkellyjoo&hide=issues&show=reviews&show_icons=true&count_private=true&theme=transparent)](https://github.com/yjkellyjoo)
 
-[![yjkellyjoo's wakatime week stats](https://github-readme-stats.vercel.app/api/wakatime?username=yjkellyjoo)](https://github.com/yjkellyjoo)
+[![yjkellyjoo's wakatime weekly stats](https://github-readme-stats-yjkellyjoo.vercel.app/api/wakatime?username=yjkellyjoo&layout=compact&langs_count=6)](https://github.com/yjkellyjoo)
 
 [![Solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjkellyjoo)](https://solved.ac/profile/yjkellyjoo)
 
